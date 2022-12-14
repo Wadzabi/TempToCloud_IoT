@@ -20,5 +20,9 @@ Triggered by IoT rule in AWS IoT Core. Recieves sensor data and coordinates from
 
 ### Data storage and visualization
 
-DyanamoDB used for newer data and visualized with custom dashboard accesing database through API Gateway. Archiving of data is done with Time To Live in dynamodb and then exporting that data to a S3 Bucket. Visualize archived data with Quicksight connecting directly to S3 bucket.  
+DyanamoDB used for newer data and visualized with custom dashboard accesing database through API Gateway. Archiving of data is done with Time To Live in dynamodb and then exporting that data to a S3 Bucket. Visualize archived data with Quicksight connecting directly to S3 bucket. 
+
+Quicksight example showing temperature difference between local data and weather API (Using fake data):
+
+![quicksight_example](quicksight_temp_diff.png)
 
