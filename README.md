@@ -24,5 +24,5 @@ DyanamoDB used for newer data and visualized with custom dashboard accesing data
 
 Quicksight example showing temperature difference between local data and weather API (Using fake data):
 
-![quicksight_example](quicksight_temp_diff.png)
+![quicksight_example](quicksight_temp_diff.PNG)
 
