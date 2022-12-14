@@ -6,7 +6,7 @@ Compare local temperature with data from OpenWeather API to see difference and a
 
 ## Project architecture
 
-![diagram](project_architecture.drawio.png)
+![diagram](project_architecture.png)
 
 ### Raspberry pi
 
